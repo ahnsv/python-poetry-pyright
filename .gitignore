@@ -1,0 +1,5 @@
+# write a gitignore file for python
+.venv/
+.pytest_cache/
+
+
